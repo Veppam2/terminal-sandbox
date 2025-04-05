@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Terminal</title>
-    <link>//localhost:1313/post/</link>
+    <link>https://veppam2.github.io/terminal-sandbox/post/</link>
     <description>Recent content in Posts on Terminal</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://veppam2.github.io/terminal-sandbox/post/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
