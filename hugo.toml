@@ -98,17 +98,17 @@ pagination.pagerSize = 5
 
       [languages.en.params.logo]
         logoText = "Terminal"
-        logoHomeLink = "/"
+        logoHomeLink = "/terminal-sandbox"
 
       [languages.en.menu]
         [[languages.en.menu.main]]
           identifier = "about"
           name = "About"
-          url = "/about"
+          url = "/terminal-sandbox/about"
         [[languages.en.menu.main]]
           identifier = "showcase"
           name = "Showcase"
-          url = "/showcase"
+          url = "/terminal-sandbox/showcase"
 
 [module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
